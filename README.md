@@ -1,5 +1,5 @@
 # run-event-classifier
-Scripts to run Akash's event classifier on PNSN events in real-time.
+(Unpolished) scripts to run Akash's event classifier on PNSN events in real-time.
 
 run_Automated_Surface_Event_Detection.py is based on this notebook: https://github.com/Akashkharita/Surface_Event_Detection/blob/main/Notebooks/Automated_Surface_Event_Detection.ipynb
 I modified it so that the only input argument is an evid.  
