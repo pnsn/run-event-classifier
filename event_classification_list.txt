@@ -1,0 +1,413 @@
+62028916  2024-07-26T18:56:22.00 Md0.0   Mean probabilities:   EQ: 0.249  EX: 0.309  SU: 0.507   Prediction: SU  Analyst: N/A
+62028906  2024-07-26T18:46:49.00 Md0.0   Mean probabilities:   EQ: 0.313  EX: 0.203  SU: 0.169   Prediction: NOISE2  Analyst: N/A
+62028896  2024-07-26T18:37:20.00 Md0.0   Mean probabilities:   EQ: 0.311  EX: 0.392  SU: 0.252   Prediction: NOISE2  Analyst: N/A
+62028891  2024-07-26T17:58:45.00 Md0.0   Mean probabilities:   EQ: 0.263  EX: 0.301  SU: 0.353   Prediction: NOISE2  Analyst: N/A
+62028886  2024-07-26T17:57:25.00 Md0.0   Mean probabilities:   EQ: 0.271  EX: 0.255  SU: 0.154   Prediction: NOISE2  Analyst: N/A
+62028881  2024-07-26T17:56:34.00 Md0.0   Mean probabilities:   EQ: 0.419  EX: 0.313  SU: 0.226   Prediction: NOISE2  Analyst: N/A
+62028876  2024-07-26T17:42:42.00 Md0.0   Mean probabilities:   EQ: 0.169  EX: 0.509  SU: 0.221   Prediction: EX  Analyst: N/A
+62028871  2024-07-26T16:36:39.00 Md0.0   Mean probabilities:   EQ: 0.353  EX: 0.114  SU: 0.133   Prediction: NOISE2  Analyst: N/A
+62028866  2024-07-26T16:17:54.00 Md0.0   Mean probabilities:   EQ: 0.262  EX: 0.17  SU: 0.125   Prediction: NOISE2  Analyst: N/A
+62028861  2024-07-26T16:16:09.00 Md0.0   Mean probabilities:   EQ: 0.356  EX: 0.19  SU: 0.29   Prediction: NOISE2  Analyst: N/A
+62028856  2024-07-26T16:08:20.00 Md0.0   Mean probabilities:   EQ: 0.277  EX: 0.144  SU: 0.186   Prediction: NOISE2  Analyst: N/A
+62028851  2024-07-26T15:41:54.00 Md0.0   Mean probabilities:   EQ: 0.32  EX: 0.22  SU: 0.336   Prediction: NOISE2  Analyst: N/A
+62028846  2024-07-26T15:38:57.00 Md0.0   Mean probabilities:   EQ: 0.259  EX: 0.184  SU: 0.442   Prediction: NOISE2  Analyst: N/A
+62028841  2024-07-26T15:35:46.00 Md0.0   Mean probabilities:   EQ: 0.557  EX: 0.155  SU: 0.176   Prediction: EQ  Analyst: N/A
+62028836  2024-07-26T15:32:53.00 Md0.0   Mean probabilities:   EQ: 0.47  EX: 0.178  SU: 0.201   Prediction: NOISE2  Analyst: N/A
+62028831  2024-07-26T15:26:34.00 Md0.0   Mean probabilities:   EQ: 0.167  EX: 0.108  SU: 0.4   Prediction: NOISE2  Analyst: N/A
+62028826  2024-07-26T15:25:34.00 Md0.0   Mean probabilities:   EQ: 0.39  EX: 0.1  SU: 0.182   Prediction: NOISE2  Analyst: N/A
+62028821  2024-07-26T15:22:46.00 Md0.0   Mean probabilities:   EQ: 0.221  EX: 0.178  SU: 0.188   Prediction: NOISE2  Analyst: N/A
+62028816  2024-07-26T15:17:52.00 Md0.0   Mean probabilities:   EQ: 0.264  EX: 0.204  SU: 0.192   Prediction: NOISE2  Analyst: N/A
+62028811  2024-07-26T15:07:47.00 Md0.0   Mean probabilities:   EQ: 0.44  EX: 0.234  SU: 0.247   Prediction: NOISE2  Analyst: N/A
+62028806  2024-07-26T14:53:57.00 Md0.0   Mean probabilities:   EQ: 0.287  EX: 0.096  SU: 0.103   Prediction: NOISE2  Analyst: N/A
+62028801  2024-07-26T14:32:09.00 Md0.0   Mean probabilities:   EQ: 0.252  EX: 0.312  SU: 0.128   Prediction: NOISE2  Analyst: N/A
+62028796  2024-07-26T14:20:59.00 Md0.0   Mean probabilities:   EQ: 0.315  EX: 0.178  SU: 0.198   Prediction: NOISE2  Analyst: N/A
+62028791  2024-07-26T14:19:06.00 Md0.0   Mean probabilities:   EQ: 0.604  EX: 0.203  SU: 0.21   Prediction: EQ  Analyst: N/A
+62028786  2024-07-26T13:37:15.00 Md0.0   Mean probabilities:   EQ: 0.304  EX: 0.106  SU: 0.12   Prediction: NOISE2  Analyst: N/A
+62028781  2024-07-26T13:28:38.00 Md0.0   Mean probabilities:   EQ: 0.265  EX: 0.184  SU: 0.119   Prediction: NOISE2  Analyst: N/A
+62028776  2024-07-26T13:28:35.00 Md0.0   Mean probabilities:   EQ: 0.266  EX: 0.136  SU: 0.116   Prediction: NOISE2  Analyst: N/A
+62028771  2024-07-26T13:23:35.00 Md0.0   Mean probabilities:   EQ: 0.286  EX: 0.16  SU: 0.104   Prediction: NOISE2  Analyst: N/A
+62028766  2024-07-26T13:11:52.00 Md0.0   Mean probabilities:   EQ: 0.45  EX: 0.173  SU: 0.177   Prediction: NOISE2  Analyst: N/A
+62028761  2024-07-26T13:05:04.00 Md0.0   Mean probabilities:   EQ: 0.305  EX: 0.167  SU: 0.4   Prediction: NOISE2  Analyst: N/A
+62028756  2024-07-26T13:02:19.00 Md0.0   Mean probabilities:   EQ: 0.335  EX: 0.178  SU: 0.168   Prediction: NOISE2  Analyst: N/A
+62020792  2024-07-26T12:11:11.54 Ml2.1   Mean probabilities:   EQ: 0.395  EX: 0.387  SU: 0.524   Prediction: SU  Analyst: N/A
+62020787  2024-07-26T11:43:24.88 Ml2.3   Mean probabilities:   EQ: 0.65  EX: 0.252  SU: 0.259   Prediction: EQ  Analyst: eq
+62028736  2024-07-26T11:42:19.00 Md0.0   Mean probabilities:   EQ: 0.304  EX: 0.139  SU: 0.154   Prediction: NOISE2  Analyst: N/A
+62028731  2024-07-26T10:21:49.00 Md0.0   Mean probabilities:   EQ: 0.235  EX: 0.23  SU: 0.521   Prediction: SU  Analyst: N/A
+62028726  2024-07-26T09:06:35.00 Md0.0   Mean probabilities:   EQ: 0.653  EX: 0.172  SU: 0.149   Prediction: EQ  Analyst: N/A
+62028721  2024-07-26T08:59:53.00 Md0.0   Mean probabilities:   EQ: 0.406  EX: 0.124  SU: 0.111   Prediction: NOISE2  Analyst: N/A
+62028716  2024-07-26T08:54:58.00 Md0.0   Mean probabilities:   EQ: 0.227  EX: 0.097  SU: 0.116   Prediction: NOISE2  Analyst: N/A
+62020757  2024-07-26T08:51:40.70 Md0.8   Mean probabilities:   EQ: 0.639  EX: 0.172  SU: 0.213   Prediction: EQ  Analyst: N/A
+62020752  2024-07-26T08:46:08.68 Ml-0.4   Mean probabilities:   EQ: 0.668  EX: 0.144  SU: 0.161   Prediction: EQ  Analyst: eq
+62020747  2024-07-26T08:30:34.41 Ml0.6   Mean probabilities:   EQ: 0.937  EX: 0.107  SU: 0.143   Prediction: EQ  Analyst: eq
+62028696  2024-07-26T08:08:14.00 Md0.0   Mean probabilities:   EQ: 0.538  EX: 0.124  SU: 0.137   Prediction: EQ  Analyst: N/A
+62028691  2024-07-26T07:58:55.00 Md0.0   Mean probabilities:   EQ: 0.519  EX: 0.148  SU: 0.138   Prediction: EQ  Analyst: N/A
+62028686  2024-07-26T07:18:23.00 Md0.0   Mean probabilities:   EQ: 0.351  EX: 0.21  SU: 0.358   Prediction: NOISE2  Analyst: N/A
+62028681  2024-07-26T07:16:18.00 Md0.0   Mean probabilities:   EQ: 0.252  EX: 0.138  SU: 0.313   Prediction: NOISE2  Analyst: N/A
+62020722  2024-07-26T06:55:43.20 Ml1.9   Mean probabilities:   EQ: 0.675  EX: 0.164  SU: 0.38   Prediction: EQ  Analyst: eq
+62028671  2024-07-26T06:36:49.00 Md0.0   Mean probabilities:   EQ: 0.654  EX: 0.175  SU: 0.184   Prediction: EQ  Analyst: N/A
+62028666  2024-07-26T06:23:03.00 Md0.0   Mean probabilities:   EQ: 0.45  EX: 0.179  SU: 0.161   Prediction: NOISE2  Analyst: N/A
+61503178  2024-07-26T05:21:47.55 Ml0.8   Mean probabilities:   EQ: 0.686  EX: 0.191  SU: 0.192   Prediction: EQ  Analyst: eq
+62028661  2024-07-26T05:21:39.00 Md0.0   Mean probabilities:   EQ: 0.402  EX: 0.165  SU: 0.122   Prediction: NOISE2  Analyst: N/A
+62028656  2024-07-26T05:14:50.00 Md0.0   Mean probabilities:   EQ: 0.56  EX: 0.154  SU: 0.16   Prediction: EQ  Analyst: N/A
+62020697  2024-07-26T05:14:05.77 Ml1.2   Mean probabilities:   EQ: 0.746  EX: 0.198  SU: 0.226   Prediction: EQ  Analyst: eq
+62028651  2024-07-26T05:13:58.00 Md0.0   Mean probabilities:   EQ: 0.49  EX: 0.169  SU: 0.248   Prediction: NOISE2  Analyst: N/A
+62028646  2024-07-26T03:21:21.00 Md0.0   Mean probabilities:   EQ: 0.45  EX: 0.214  SU: 0.406   Prediction: NOISE2  Analyst: N/A
+62028636  2024-07-26T01:49:01.00 Md0.0   Mean probabilities:   EQ: 0.247  EX: 0.189  SU: 0.37   Prediction: NOISE2  Analyst: N/A
+62028631  2024-07-26T01:48:03.00 Md0.0   Mean probabilities:   EQ: 0.329  EX: 0.156  SU: 0.115   Prediction: NOISE2  Analyst: N/A
+62020672  2024-07-26T01:36:13.86 Ml1.9   Mean probabilities:   EQ: 0.835  EX: 0.175  SU: 0.228   Prediction: EQ
+62020672  2024-07-26T01:36:13.86 Ml1.9   Mean probabilities:   EQ: 0.835  EX: 0.175  SU: 0.228   Prediction: EQ  Analyst: N/A
+62028621  2024-07-26T01:14:36.00 Md0.0   Mean probabilities:   EQ: 0.381  EX: 0.154  SU: 0.188   Prediction: NOISE2  Analyst: N/A
+62028611  2024-07-26T00:32:28.00 Md0.0   Mean probabilities:   EQ: 0.279  EX: 0.123  SU: 0.097   Prediction: NOISE2  Analyst: N/A
+62028606  2024-07-26T00:25:36.00 Md0.0   Mean probabilities:   EQ: 0.206  EX: 0.394  SU: 0.394   Prediction: NOISE2  Analyst: N/A
+62028601  2024-07-25T23:52:09.00 Md0.0   Mean probabilities:   EQ: 0.309  EX: 0.193  SU: 0.11   Prediction: NOISE2  Analyst: N/A
+62028596  2024-07-25T23:21:35.00 Md0.0   Mean probabilities:   EQ: 0.271  EX: 0.22  SU: 0.085   Prediction: NOISE2  Analyst: N/A
+62028591  2024-07-25T23:12:22.00 Md0.0   Mean probabilities:   EQ: 0.238  EX: 0.196  SU: 0.103   Prediction: NOISE2  Analyst: N/A
+62028586  2024-07-25T23:07:38.00 Md0.0   Mean probabilities:   EQ: 0.209  EX: 0.305  SU: 0.35   Prediction: NOISE2  Analyst: N/A
+62028581  2024-07-25T23:01:18.00 Md0.0   Mean probabilities:   EQ: 0.278  EX: 0.189  SU: 0.124   Prediction: NOISE2  Analyst: N/A
+62028571  2024-07-25T22:54:33.00 Md0.0   Mean probabilities:   EQ: 0.184  EX: 0.161  SU: 0.08   Prediction: NOISE2  Analyst: N/A
+62028561  2024-07-25T22:26:55.00 Md0.0   Mean probabilities:   EQ: 0.295  EX: 0.201  SU: 0.174   Prediction: NOISE2  Analyst: N/A
+62028556  2024-07-25T22:25:44.00 Md0.0   Mean probabilities:   EQ: 0.353  EX: 0.18  SU: 0.172   Prediction: NOISE2  Analyst: N/A
+62028551  2024-07-25T22:10:42.00 Md0.0   Mean probabilities:   EQ: 0.297  EX: 0.221  SU: 0.161   Prediction: NOISE2  Analyst: N/A
+62028541  2024-07-25T22:06:11.00 Md0.0   Mean probabilities:   EQ: 0.189  EX: 0.155  SU: 0.122   Prediction: NOISE2  Analyst: N/A
+62028516  2024-07-25T21:16:23.00 Md0.0   Mean probabilities:   EQ: 0.26  EX: 0.181  SU: 0.12   Prediction: NOISE2  Analyst: N/A
+62028511  2024-07-25T21:03:47.00 Md0.0   Mean probabilities:   EQ: 0.343  EX: 0.196  SU: 0.167   Prediction: NOISE2  Analyst: N/A
+62028501  2024-07-25T20:43:17.00 Md0.0   Mean probabilities:   EQ: 0.259  EX: 0.228  SU: 0.169   Prediction: NOISE2  Analyst: N/A
+62028496  2024-07-25T20:38:14.00 Md0.0   Mean probabilities:   EQ: 0.231  EX: 0.338  SU: 0.203   Prediction: NOISE2  Analyst: N/A
+62028491  2024-07-25T20:29:29.00 Md0.0   Mean probabilities:   EQ: 0.324  EX: 0.217  SU: 0.153   Prediction: NOISE2  Analyst: N/A
+62028481  2024-07-25T19:47:22.00 Md0.0   Mean probabilities:   EQ: 0.283  EX: 0.196  SU: 0.098   Prediction: NOISE2  Analyst: N/A
+62028476  2024-07-25T19:40:37.00 Md0.0   Mean probabilities:   EQ: 0.407  EX: 0.248  SU: 0.167   Prediction: NOISE2  Analyst: N/A
+62020532  2024-07-25T19:40:16.43 Ml2.3   Mean probabilities:   EQ: 0.5  EX: 0.438  SU: 0.178   Prediction: EQ  Analyst: px
+62028466  2024-07-25T19:26:48.00 Md0.0   Mean probabilities:   EQ: 0.319  EX: 0.175  SU: 0.098   Prediction: NOISE2  Analyst: N/A
+62028461  2024-07-25T19:19:04.00 Md0.0   Mean probabilities:   EQ: 0.254  EX: 0.147  SU: 0.1   Prediction: NOISE2  Analyst: N/A
+62028456  2024-07-25T19:12:39.00 Md0.0   Mean probabilities:   EQ: 0.23  EX: 0.289  SU: 0.125   Prediction: NOISE2  Analyst: N/A
+62020507  2024-07-25T19:00:02.06 Ml1.4   Mean probabilities:   EQ: 0.281  EX: 0.566  SU: 0.314   Prediction: EX  Analyst: px
+62028451  2024-07-25T18:59:58.00 Md0.0   Mean probabilities:   EQ: 0.319  EX: 0.515  SU: 0.299   Prediction: EX  Analyst: N/A
+62028441  2024-07-25T18:38:22.00 Md0.0   Mean probabilities:   EQ: 0.231  EX: 0.181  SU: 0.101   Prediction: NOISE2  Analyst: N/A
+62028436  2024-07-25T18:13:42.00 Md0.0   Mean probabilities:   EQ: 0.293  EX: 0.251  SU: 0.23   Prediction: NOISE2  Analyst: N/A
+62028431  2024-07-25T18:00:49.00 Md0.0   Mean probabilities:   EQ: 0.248  EX: 0.141  SU: 0.142   Prediction: NOISE2  Analyst: N/A
+62028421  2024-07-25T17:49:14.00 Md0.0   Mean probabilities:   EQ: 0.298  EX: 0.181  SU: 0.193   Prediction: NOISE2  Analyst: N/A
+62028406  2024-07-25T17:23:22.00 Md0.0   Mean probabilities:   EQ: 0.22  EX: 0.204  SU: 0.122   Prediction: NOISE2  Analyst: N/A
+62028391  2024-07-25T16:46:27.00 Md0.0   Mean probabilities:   EQ: 0.374  EX: 0.158  SU: 0.185   Prediction: NOISE2  Analyst: N/A
+62028386  2024-07-25T16:36:41.00 Md0.0   Mean probabilities:   EQ: 0.224  EX: 0.438  SU: 0.527   Prediction: SU  Analyst: N/A
+62028381  2024-07-25T16:22:09.01 Ml1.5   Mean probabilities:   EQ: 0.631  EX: 0.166  SU: 0.175   Prediction: EQ
+62028381  2024-07-25T16:22:09.01 Ml1.5   Mean probabilities:   EQ: 0.631  EX: 0.166  SU: 0.175   Prediction: EQ  Analyst: eq
+62028376  2024-07-25T16:13:38.00 Md0.0   Mean probabilities:   EQ: 0.342  EX: 0.145  SU: 0.158   Prediction: NOISE2  Analyst: N/A
+62028371  2024-07-25T16:08:45.00 Md0.0   Mean probabilities:   EQ: 0.145  EX: 0.105  SU: 0.072   Prediction: NOISE2  Analyst: N/A
+62028366  2024-07-25T16:00:48.00 Md0.0   Mean probabilities:   EQ: 0.285  EX: 0.175  SU: 0.196   Prediction: NOISE2  Analyst: N/A
+62028361  2024-07-25T15:38:45.00 Md0.0   Mean probabilities:   EQ: 0.318  EX: 0.151  SU: 0.118   Prediction: NOISE2  Analyst: N/A
+62028351  2024-07-25T14:55:05.00 Md0.0   Mean probabilities:   EQ: 0.298  EX: 0.136  SU: 0.146   Prediction: NOISE2  Analyst: N/A
+62028346  2024-07-25T14:49:31.00 Md0.0   Mean probabilities:   EQ: 0.31  EX: 0.106  SU: 0.095   Prediction: NOISE2  Analyst: N/A
+62028341  2024-07-25T14:44:09.96 Ml1.2   Mean probabilities:   EQ: 0.837  EX: 0.163  SU: 0.179   Prediction: EQ
+62028341  2024-07-25T14:44:09.96 Ml1.2   Mean probabilities:   EQ: 0.837  EX: 0.163  SU: 0.179   Prediction: EQ  Analyst: eq
+62028336  2024-07-25T14:38:44.00 Md0.0   Mean probabilities:   EQ: 0.258  EX: 0.152  SU: 0.171   Prediction: NOISE2  Analyst: N/A
+62028331  2024-07-25T14:37:35.00 Md0.0   Mean probabilities:   EQ: 0.356  EX: 0.205  SU: 0.239   Prediction: NOISE2  Analyst: N/A
+62028326  2024-07-25T12:32:35.00 Md0.0   Mean probabilities:   EQ: 0.251  EX: 0.16  SU: 0.154   Prediction: NOISE2  Analyst: N/A
+62028316  2024-07-25T09:44:16.20 Md1.8   Mean probabilities:   EQ: 0.842  EX: 0.177  SU: 0.12   Prediction: EQ
+62028316  2024-07-25T09:44:16.20 Md1.8   Mean probabilities:   EQ: 0.842  EX: 0.177  SU: 0.12   Prediction: EQ  Analyst: eq
+62028311  2024-07-25T07:54:37.00 Md0.0   Mean probabilities:   EQ: 0.268  EX: 0.087  SU: 0.097   Prediction: NOISE2  Analyst: N/A
+62028306  2024-07-25T07:53:28.00 Md0.0   Mean probabilities:   EQ: 0.229  EX: 0.067  SU: 0.063   Prediction: NOISE2  Analyst: N/A
+62028301  2024-07-25T07:51:47.00 Md0.0   Mean probabilities:   EQ: 0.259  EX: 0.098  SU: 0.066   Prediction: NOISE2  Analyst: N/A
+62028291  2024-07-25T07:37:37.00 Md0.0   Mean probabilities:   EQ: 0.247  EX: 0.11  SU: 0.12   Prediction: NOISE2  Analyst: N/A
+62028286  2024-07-25T07:36:15.00 Md0.0   Mean probabilities:   EQ: 0.304  EX: 0.106  SU: 0.078   Prediction: NOISE2  Analyst: N/A
+62028281  2024-07-25T07:29:35.00 Md0.0   Mean probabilities:   EQ: 0.244  EX: 0.071  SU: 0.06   Prediction: NOISE2  Analyst: N/A
+62028276  2024-07-25T07:15:24.00 Md0.0   Mean probabilities:   EQ: 0.366  EX: 0.098  SU: 0.126   Prediction: NOISE2  Analyst: N/A
+62028246  2024-07-25T06:19:49.00 Md0.0   Mean probabilities:   EQ: 0.36  EX: 0.109  SU: 0.105   Prediction: NOISE2  Analyst: N/A
+62028236  2024-07-25T06:16:21.00 Md0.0   Mean probabilities:   EQ: 0.231  EX: 0.061  SU: 0.058   Prediction: NOISE2  Analyst: N/A
+62028231  2024-07-25T06:14:46.00 Md0.0   Mean probabilities:   EQ: 0.386  EX: 0.087  SU: 0.092   Prediction: NOISE2  Analyst: N/A
+62028221  2024-07-25T05:49:03.00 Md0.0   Mean probabilities:   EQ: 0.406  EX: 0.114  SU: 0.106   Prediction: NOISE2  Analyst: N/A
+62028216  2024-07-25T05:47:13.00 Md0.0   Mean probabilities:   EQ: 0.387  EX: 0.104  SU: 0.119   Prediction: NOISE2  Analyst: N/A
+62028211  2024-07-25T05:45:30.00 Md0.0   Mean probabilities:   EQ: 0.343  EX: 0.094  SU: 0.077   Prediction: NOISE2  Analyst: N/A
+62028206  2024-07-25T05:43:33.00 Md0.0   Mean probabilities:   EQ: 0.334  EX: 0.083  SU: 0.085   Prediction: NOISE2  Analyst: N/A
+62028201  2024-07-25T05:14:25.00 Md0.0   Mean probabilities:   EQ: 0.307  EX: 0.292  SU: 0.425   Prediction: NOISE2  Analyst: N/A
+62028196  2024-07-25T05:01:17.00 Md0.0   Mean probabilities:   EQ: 0.264  EX: 0.098  SU: 0.068   Prediction: NOISE2  Analyst: N/A
+62028191  2024-07-25T04:40:25.00 Md0.0   Mean probabilities:   EQ: 0.422  EX: 0.113  SU: 0.147   Prediction: NOISE2  Analyst: N/A
+62028181  2024-07-25T04:20:20.92 Ml0.7   Mean probabilities:   EQ: 0.438  EX: 0.181  SU: 0.488   Prediction: NOISE2
+62028181  2024-07-25T04:20:20.92 Ml0.7   Mean probabilities:   EQ: 0.438  EX: 0.181  SU: 0.488   Prediction: NOISE2  Analyst: eq
+62028176  2024-07-25T02:33:29.00 Md0.0   Mean probabilities:   EQ: 0.254  EX: 0.175  SU: 0.111   Prediction: NOISE2  Analyst: N/A
+62028171  2024-07-25T02:29:04.00 Md0.0   Mean probabilities:   EQ: 0.463  EX: 0.102  SU: 0.182   Prediction: NOISE2  Analyst: N/A
+62028166  2024-07-25T02:14:58.00 Md0.0   Mean probabilities:   EQ: 0.364  EX: 0.097  SU: 0.112   Prediction: NOISE2  Analyst: N/A
+62028161  2024-07-25T02:13:16.00 Md0.0   Mean probabilities:   EQ: 0.356  EX: 0.15  SU: 0.123   Prediction: NOISE2  Analyst: N/A
+62028156  2024-07-25T02:11:15.00 Md0.0   Mean probabilities:   EQ: 0.467  EX: 0.167  SU: 0.157   Prediction: NOISE2  Analyst: N/A
+62028151  2024-07-25T02:00:33.00 Md0.0   Mean probabilities:   EQ: 0.321  EX: 0.188  SU: 0.198   Prediction: NOISE2  Analyst: N/A
+62028146  2024-07-25T01:59:45.00 Md0.0   Mean probabilities:   EQ: 0.287  EX: 0.125  SU: 0.131   Prediction: NOISE2  Analyst: N/A
+62028141  2024-07-25T01:34:39.00 Md0.0   Mean probabilities:   EQ: 0.405  EX: 0.192  SU: 0.144   Prediction: NOISE2  Analyst: N/A
+62028136  2024-07-25T01:02:14.00 Md0.0   Mean probabilities:   EQ: 0.29  EX: 0.149  SU: 0.198   Prediction: NOISE2  Analyst: N/A
+62028131  2024-07-25T00:49:19.00 Md0.0   Mean probabilities:   EQ: 0.307  EX: 0.128  SU: 0.12   Prediction: NOISE2  Analyst: N/A
+62028126  2024-07-25T00:16:59.00 Md0.0   Mean probabilities:   EQ: 0.362  EX: 0.117  SU: 0.115   Prediction: NOISE2  Analyst: N/A
+62028121  2024-07-25T00:13:31.00 Md0.0   Mean probabilities:   EQ: 0.251  EX: 0.095  SU: 0.091   Prediction: NOISE2  Analyst: N/A
+62028116  2024-07-24T23:41:32.00 Md0.0   Mean probabilities:   EQ: 0.301  EX: 0.258  SU: 0.15   Prediction: NOISE2  Analyst: N/A
+62028111  2024-07-24T23:27:14.00 Md0.0   Mean probabilities:   EQ: 0.261  EX: 0.169  SU: 0.084   Prediction: NOISE2  Analyst: N/A
+62028106  2024-07-24T23:16:35.00 Md0.0   Mean probabilities:   EQ: 0.28  EX: 0.269  SU: 0.136   Prediction: NOISE2  Analyst: N/A
+62028101  2024-07-24T23:10:09.00 Md0.0   Mean probabilities:   EQ: 0.235  EX: 0.25  SU: 0.117   Prediction: NOISE2  Analyst: N/A
+62028096  2024-07-24T22:05:53.00 Md0.0   Mean probabilities:   EQ: 0.346  EX: 0.286  SU: 0.194   Prediction: NOISE2  Analyst: N/A
+62028091  2024-07-24T21:42:56.00 Md0.0   Mean probabilities:   EQ: 0.139  EX: 0.458  SU: 0.2   Prediction: NOISE2  Analyst: N/A
+62028086  2024-07-24T21:40:19.90 Ml3.0   Mean probabilities:   EQ: 0.126  EX: 0.765  SU: 0.32   Prediction: EX
+62028086  2024-07-24T21:40:19.90 Ml3.0   Mean probabilities:   EQ: 0.126  EX: 0.765  SU: 0.32   Prediction: EX  Analyst: px
+62028081  2024-07-24T21:16:45.00 Md0.0   Mean probabilities:   EQ: 0.327  EX: 0.321  SU: 0.162   Prediction: NOISE2  Analyst: N/A
+62028076  2024-07-24T21:15:33.00 Md0.0   Mean probabilities:   EQ: 0.347  EX: 0.163  SU: 0.176   Prediction: NOISE2  Analyst: N/A
+62028071  2024-07-24T21:12:32.00 Md0.0   Mean probabilities:   EQ: 0.27  EX: 0.233  SU: 0.112   Prediction: NOISE2  Analyst: N/A
+62028066  2024-07-24T21:05:49.00 Md0.0   Mean probabilities:   EQ: 0.394  EX: 0.29  SU: 0.203   Prediction: NOISE2  Analyst: N/A
+62028061  2024-07-24T20:50:04.10 Ml2.9   Mean probabilities:   EQ: 0.304  EX: 0.455  SU: 0.527   Prediction: SU
+62028061  2024-07-24T20:50:04.10 Ml2.9   Mean probabilities:   EQ: 0.304  EX: 0.455  SU: 0.527   Prediction: SU  Analyst: eq
+62028056  2024-07-24T20:35:28.26 Ml1.5   Mean probabilities:   EQ: 0.049  EX: 0.928  SU: 0.328   Prediction: EX
+62028056  2024-07-24T20:35:28.26 Ml1.5   Mean probabilities:   EQ: 0.049  EX: 0.928  SU: 0.328   Prediction: EX  Analyst: px
+62028051  2024-07-24T20:27:01.00 Md0.0   Mean probabilities:   EQ: 0.283  EX: 0.172  SU: 0.139   Prediction: NOISE2  Analyst: N/A
+62028046  2024-07-24T20:11:25.00 Md0.0   Mean probabilities:   EQ: 0.265  EX: 0.218  SU: 0.1   Prediction: NOISE2  Analyst: N/A
+62028041  2024-07-24T20:09:42.00 Md0.0   Mean probabilities:   EQ: 0.347  EX: 0.202  SU: 0.083   Prediction: NOISE2  Analyst: N/A
+62028036  2024-07-24T19:42:41.00 Md0.0   Mean probabilities:   EQ: 0.294  EX: 0.225  SU: 0.146   Prediction: NOISE2  Analyst: N/A
+62028031  2024-07-24T19:40:46.00 Md0.0   Mean probabilities:   EQ: 0.293  EX: 0.174  SU: 0.117   Prediction: NOISE2  Analyst: N/A
+62028021  2024-07-24T19:07:20.00 Md0.0   Mean probabilities:   EQ: 0.283  EX: 0.154  SU: 0.14   Prediction: NOISE2  Analyst: N/A
+62028016  2024-07-24T18:43:01.00 Md0.0   Mean probabilities:   EQ: 0.331  EX: 0.298  SU: 0.197   Prediction: NOISE2  Analyst: N/A
+62028011  2024-07-24T17:39:02.71 Ml1.4   Mean probabilities:   EQ: 0.166  EX: 0.757  SU: 0.409   Prediction: EX
+62028011  2024-07-24T17:39:02.71 Ml1.4   Mean probabilities:   EQ: 0.166  EX: 0.757  SU: 0.409   Prediction: EX  Analyst: px
+62028006  2024-07-24T17:37:04.00 Md0.0   Mean probabilities:   EQ: 0.361  EX: 0.265  SU: 0.282   Prediction: NOISE2  Analyst: N/A
+62028001  2024-07-24T17:34:41.86 Ml1.0   Mean probabilities:   EQ: 0.064  EX: 0.939  SU: 0.343   Prediction: EX
+62028001  2024-07-24T17:34:41.86 Ml1.0   Mean probabilities:   EQ: 0.064  EX: 0.939  SU: 0.343   Prediction: EX  Analyst: px
+62027996  2024-07-24T17:30:54.00 Md0.0   Mean probabilities:   EQ: 0.332  EX: 0.221  SU: 0.211   Prediction: NOISE2  Analyst: N/A
+62027991  2024-07-24T16:52:05.00 Md0.0   Mean probabilities:   EQ: 0.297  EX: 0.197  SU: 0.184   Prediction: NOISE2  Analyst: N/A
+62027986  2024-07-24T16:11:57.00 Md0.0   Mean probabilities:   EQ: 0.307  EX: 0.174  SU: 0.204   Prediction: NOISE2  Analyst: N/A
+62027981  2024-07-24T16:09:46.00 Md0.0   Mean probabilities:   EQ: 0.31  EX: 0.218  SU: 0.223   Prediction: NOISE2  Analyst: N/A
+62027976  2024-07-24T16:07:44.00 Md0.0   Mean probabilities:   EQ: 0.309  EX: 0.225  SU: 0.221   Prediction: NOISE2  Analyst: N/A
+62027971  2024-07-24T15:56:05.00 Md0.0   Mean probabilities:   EQ: 0.191  EX: 0.144  SU: 0.157   Prediction: NOISE2  Analyst: N/A
+62027966  2024-07-24T15:43:38.00 Md0.0   Mean probabilities:   EQ: 0.436  EX: 0.12  SU: 0.187   Prediction: NOISE2  Analyst: N/A
+62027961  2024-07-24T15:28:58.00 Md0.0   Mean probabilities:   EQ: 0.269  EX: 0.153  SU: 0.213   Prediction: NOISE2  Analyst: N/A
+62027951  2024-07-24T14:15:16.00 Md0.0   Mean probabilities:   EQ: 0.294  EX: 0.195  SU: 0.158   Prediction: NOISE2  Analyst: N/A
+62027946  2024-07-24T14:13:39.93 Md2.4   Mean probabilities:   EQ: 0.571  EX: 0.22  SU: 0.43   Prediction: EQ
+62027946  2024-07-24T14:13:39.93 Md2.4   Mean probabilities:   EQ: 0.571  EX: 0.22  SU: 0.43   Prediction: EQ  Analyst: eq
+62027936  2024-07-24T13:36:05.00 Md0.0   Mean probabilities:   EQ: 0.262  EX: 0.145  SU: 0.168   Prediction: NOISE2  Analyst: N/A
+62027931  2024-07-24T13:35:10.00 Md0.0   Mean probabilities:   EQ: 0.218  EX: 0.082  SU: 0.118   Prediction: NOISE2  Analyst: N/A
+62027921  2024-07-24T13:34:50.04 Md2.2   Mean probabilities:   EQ: 0.304  EX: 0.142  SU: 0.154   Prediction: NOISE2
+62027926  2024-07-24T13:32:56.00 Md0.0   Mean probabilities:   EQ: 0.261  EX: 0.141  SU: 0.144   Prediction: NOISE2  Analyst: N/A
+62027916  2024-07-24T13:31:15.00 Md0.0   Mean probabilities:   EQ: 0.286  EX: 0.165  SU: 0.145   Prediction: NOISE2  Analyst: N/A
+62027911  2024-07-24T13:30:20.00 Md0.0   Mean probabilities:   EQ: 0.209  EX: 0.075  SU: 0.08   Prediction: NOISE2  Analyst: N/A
+62027901  2024-07-24T13:27:28.00 Md0.0   Mean probabilities:   EQ: 0.221  EX: 0.075  SU: 0.079   Prediction: NOISE2  Analyst: N/A
+62027891  2024-07-24T13:16:22.00 Md0.0   Mean probabilities:   EQ: 0.27  EX: 0.12  SU: 0.1   Prediction: NOISE2  Analyst: N/A
+62027881  2024-07-24T13:11:43.00 Md0.0   Mean probabilities:   EQ: 0.336  EX: 0.133  SU: 0.086   Prediction: NOISE2  Analyst: N/A
+62027876  2024-07-24T13:04:31.00 Md0.0   Mean probabilities:   EQ: 0.327  EX: 0.134  SU: 0.125   Prediction: NOISE2  Analyst: N/A
+62027871  2024-07-24T13:00:18.00 Md0.0   Mean probabilities:   EQ: 0.364  EX: 0.113  SU: 0.126   Prediction: NOISE2  Analyst: N/A
+62027866  2024-07-24T12:59:33.00 Md0.0   Mean probabilities:   EQ: 0.326  EX: 0.102  SU: 0.119   Prediction: NOISE2  Analyst: N/A
+62027861  2024-07-24T12:57:12.00 Md0.0   Mean probabilities:   EQ: 0.27  EX: 0.118  SU: 0.179   Prediction: NOISE2  Analyst: N/A
+62027856  2024-07-24T12:55:14.00 Md0.0   Mean probabilities:   EQ: 0.355  EX: 0.115  SU: 0.149   Prediction: NOISE2  Analyst: N/A
+62027846  2024-07-24T12:37:38.00 Md0.0   Mean probabilities:   EQ: 0.373  EX: 0.139  SU: 0.135   Prediction: NOISE2  Analyst: N/A
+62027841  2024-07-24T12:36:05.00 Md0.0   Mean probabilities:   EQ: 0.327  EX: 0.168  SU: 0.17   Prediction: NOISE2  Analyst: N/A
+62027836  2024-07-24T12:33:08.00 Md0.0   Mean probabilities:   EQ: 0.34  EX: 0.114  SU: 0.097   Prediction: NOISE2  Analyst: N/A
+62027831  2024-07-24T12:30:25.00 Md0.0   Mean probabilities:   EQ: 0.344  EX: 0.119  SU: 0.098   Prediction: NOISE2  Analyst: N/A
+62027826  2024-07-24T12:28:32.00 Md0.0   Mean probabilities:   EQ: 0.265  EX: 0.082  SU: 0.063   Prediction: NOISE2  Analyst: N/A
+62027821  2024-07-24T11:05:52.00 Md0.0   Mean probabilities:   EQ: 0.311  EX: 0.148  SU: 0.138   Prediction: NOISE2  Analyst: N/A
+62027816  2024-07-24T11:04:04.00 Md0.0   Mean probabilities:   EQ: 0.281  EX: 0.178  SU: 0.14   Prediction: NOISE2  Analyst: N/A
+62027806  2024-07-24T10:46:10.00 Md0.0   Mean probabilities:   EQ: 0.24  EX: 0.144  SU: 0.105   Prediction: NOISE2  Analyst: N/A
+62027801  2024-07-24T10:44:04.00 Md0.0   Mean probabilities:   EQ: 0.264  EX: 0.12  SU: 0.109   Prediction: NOISE2  Analyst: N/A
+62027791  2024-07-24T10:36:56.00 Md0.0   Mean probabilities:   EQ: 0.248  EX: 0.112  SU: 0.123   Prediction: NOISE2  Analyst: N/A
+62027786  2024-07-24T10:06:33.00 Md0.0   Mean probabilities:   EQ: 0.264  EX: 0.086  SU: 0.08   Prediction: NOISE2  Analyst: N/A
+62027761  2024-07-24T09:07:01.00 Md0.0   Mean probabilities:   EQ: 0.334  EX: 0.119  SU: 0.088   Prediction: NOISE2  Analyst: N/A
+62027736  2024-07-24T00:44:08.92 Ml0.3   Mean probabilities:   EQ: 0.837  EX: 0.09  SU: 0.155   Prediction: EQ
+62027696  2024-07-23T23:12:21.61 Ml0.8   Mean probabilities:   EQ: 0.233  EX: 0.693  SU: 0.26   Prediction: EX
+62027661  2024-07-23T20:51:44.20 Ml0.9   Mean probabilities:   EQ: 0.514  EX: 0.207  SU: 0.54   Prediction: SU
+62027651  2024-07-23T20:14:25.54 Ml1.7   Mean probabilities:   EQ: 0.39  EX: 0.211  SU: 0.663   Prediction: SU
+62027616  2024-07-23T17:24:05.72 Ml1.4   Mean probabilities:   EQ: 0.094  EX: 0.861  SU: 0.344   Prediction: EX
+62027581  2024-07-23T16:12:40.63 Mh4.4   Mean probabilities:   EQ: 0.224  EX: 0.661  SU: 0.211   Prediction: EX
+62027581  2024-07-23T16:12:40.63 Ml3.1   Mean probabilities:   EQ: 0.224  EX: 0.661  SU: 0.211   Prediction: EX
+62027536  2024-07-23T12:48:53.36 Ml0.5   Mean probabilities:   EQ: 0.725  EX: 0.14  SU: 0.283   Prediction: EQ
+62027511  2024-07-23T05:06:00.08 Md2.8   Mean probabilities:   EQ: 0.821  EX: 0.185  SU: 0.102   Prediction: EQ
+62027331  2024-07-22T17:39:08.61 Md-0.6   Mean probabilities:   EQ: 0.48  EX: 0.192  SU: 0.176   Prediction: NOISE2
+62027316  2024-07-22T17:29:58.46 Ml1.9   Mean probabilities:   EQ: 0.357  EX: 0.575  SU: 0.25   Prediction: EX
+62027276  2024-07-22T10:31:25.09 Ml0.2   Mean probabilities:   EQ: 0.668  EX: 0.15  SU: 0.167   Prediction: EQ
+62027261  2024-07-22T09:55:02.09 Ml0.5   Mean probabilities:   EQ: 0.856  EX: 0.109  SU: 0.154   Prediction: EQ
+62027251  2024-07-22T08:27:21.41 Md1.5   Mean probabilities:   EQ: 0.468  EX: 0.195  SU: 0.172   Prediction: NOISE2
+62027231  2024-07-22T06:40:30.57 Ml0.4   Mean probabilities:   EQ: 0.547  EX: 0.192  SU: 0.504   Prediction: EQ
+62027221  2024-07-22T04:31:47.98 Ml1.3   Mean probabilities:   EQ: 0.83  EX: 0.154  SU: 0.223   Prediction: EQ
+62027216  2024-07-22T04:30:44.61 Ml1.0   Mean probabilities:   EQ: 0.723  EX: 0.146  SU: 0.111   Prediction: EQ
+62027211  2024-07-22T04:25:50.75 Ml1.8   Mean probabilities:   EQ: 0.603  EX: 0.263  SU: 0.219   Prediction: EQ
+62027181  2024-07-22T02:13:38.32 Ml1.7   Mean probabilities:   EQ: 0.485  EX: 0.317  SU: 0.289   Prediction: NOISE2
+62027116  2024-07-21T22:28:14.23 Ml1.5   Mean probabilities:   EQ: 0.148  EX: 0.614  SU: 0.535   Prediction: EX
+62027046  2024-07-21T17:08:39.79 Ml0.9   Mean probabilities:   EQ: 0.399  EX: 0.373  SU: 0.43   Prediction: NOISE2
+62026856  2024-07-21T10:14:31.28 Ml-0.2   Mean probabilities:   EQ: 0.421  EX: 0.099  SU: 0.124   Prediction: NOISE2
+62026841  2024-07-21T09:40:03.48 Md1.8   Mean probabilities:   EQ: 0.806  EX: 0.204  SU: 0.208   Prediction: EQ
+62026826  2024-07-21T09:12:42.16 Md1.7   Mean probabilities:   EQ: 0.698  EX: 0.196  SU: 0.19   Prediction: EQ
+62026781  2024-07-21T07:36:43.09 Ml1.1   Mean probabilities:   EQ: 0.089  EX: 0.63  SU: 0.653   Prediction: SU
+62026776  2024-07-21T05:12:26.37 Ml2.2   Mean probabilities:   EQ: 0.591  EX: 0.261  SU: 0.216   Prediction: EQ
+62026756  2024-07-21T03:41:26.82 Md1.8   Mean probabilities:   EQ: 0.664  EX: 0.143  SU: 0.141   Prediction: EQ
+62026701  2024-07-20T23:47:20.07 Ml2.2   Mean probabilities:   EQ: 0.271  EX: 0.645  SU: 0.353   Prediction: EX
+62026681  2024-07-20T22:24:01.28 Ml0.8   Mean probabilities:   EQ: 0.668  EX: 0.219  SU: 0.15   Prediction: EQ
+62026666  2024-07-20T22:08:08.65 Ml2.7   Mean probabilities:   EQ: 0.545  EX: 0.378  SU: 0.275   Prediction: EQ
+62026656  2024-07-20T21:39:07.11 Md0.0   Mean probabilities:   EQ: 0.402  EX: 0.153  SU: 0.141   Prediction: NOISE2
+62026636  2024-07-20T19:42:50.00 Md1.5   Mean probabilities:   EQ: 0.276  EX: 0.425  SU: 0.2   Prediction: NOISE2
+62026626  2024-07-20T18:52:16.86 Md2.1   Mean probabilities:   EQ: 0.288  EX: 0.602  SU: 0.335   Prediction: EX
+62026546  2024-07-20T12:00:17.48 Ml0.8   Mean probabilities:   EQ: 0.666  EX: 0.12  SU: 0.176   Prediction: EQ
+62026541  2024-07-20T11:57:06.40 Md1.6   Mean probabilities:   EQ: 0.583  EX: 0.342  SU: 0.316   Prediction: EQ
+62026516  2024-07-20T10:40:05.55 Ml2.6   Mean probabilities:   EQ: 0.37  EX: 0.368  SU: 0.45   Prediction: NOISE2
+62026476  2024-07-20T04:55:54.23 Md1.8   Mean probabilities:   EQ: 0.672  EX: 0.214  SU: 0.206   Prediction: EQ
+62026471  2024-07-20T04:08:25.28 Md1.4   Mean probabilities:   EQ: 0.829  EX: 0.173  SU: 0.155   Prediction: EQ
+62026426  2024-07-20T02:09:46.05 Md1.0   Mean probabilities:   EQ: 0.417  EX: 0.295  SU: 0.155   Prediction: NOISE2
+62026291  2024-07-19T19:30:44.04 Ml1.9   Mean probabilities:   EQ: 0.112  EX: 0.873  SU: 0.178   Prediction: EX
+62026286  2024-07-19T19:21:54.50 Ml2.3   Mean probabilities:   EQ: 0.748  EX: 0.228  SU: 0.173   Prediction: EQ
+62026276  2024-07-19T19:09:15.58 Ml1.0   Mean probabilities:   EQ: 0.165  EX: 0.727  SU: 0.398   Prediction: EX
+62026271  2024-07-19T19:02:01.36 Md1.6   Mean probabilities:   EQ: 0.768  EX: 0.226  SU: 0.161   Prediction: EQ
+62026226  2024-07-19T17:11:54.20 Ml1.9   Mean probabilities:   EQ: 0.316  EX: 0.532  SU: 0.318   Prediction: EX
+62026176  2024-07-19T15:29:36.84 Mh0.4   Mean probabilities:   EQ: 0.646  EX: 0.112  SU: 0.103   Prediction: EQ
+62026091  2024-07-19T11:22:34.70 Md0.6   Mean probabilities:   EQ: 0.69  EX: 0.132  SU: 0.135   Prediction: EQ
+62026086  2024-07-19T10:44:26.19 Ml1.5   Mean probabilities:   EQ: 0.112  EX: 0.735  SU: 0.502   Prediction: EX
+62026076  2024-07-19T09:41:38.46 Md-0.7   Mean probabilities:   EQ: 0.417  EX: 0.109  SU: 0.216   Prediction: NOISE2
+62026051  2024-07-19T08:34:02.22 Mh-0.3   Mean probabilities:   EQ: 0.518  EX: 0.271  SU: 0.44   Prediction: EQ
+62026046  2024-07-19T07:02:03.05 Ml2.5   Mean probabilities:   EQ: 0.251  EX: 0.45  SU: 0.196   Prediction: NOISE2
+62025986  2024-07-19T00:04:54.61 Md1.9   Mean probabilities:   EQ: 0.579  EX: 0.236  SU: 0.33   Prediction: EQ
+62025966  2024-07-18T22:56:30.05 Ml1.2   Mean probabilities:   EQ: 0.093  EX: 0.915  SU: 0.357   Prediction: EX
+62018012  2024-07-18T21:20:42.86 Md1.8   Mean probabilities:   EQ: 0.831  EX: 0.242  SU: 0.105   Prediction: EQ
+62018007  2024-07-18T21:02:12.00 Ml1.4   Mean probabilities:   EQ: 0.097  EX: 0.914  SU: 0.267   Prediction: EX
+62018002  2024-07-18T20:59:08.09 Md1.8   Mean probabilities:   EQ: 0.246  EX: 0.738  SU: 0.215   Prediction: EX
+62017792  2024-07-18T16:17:07.83 Ml0.6   Mean probabilities:   EQ: 0.472  EX: 0.276  SU: 0.456   Prediction: NOISE2
+62017742  2024-07-18T13:21:31.32 Ml0.0   Mean probabilities:   EQ: 0.449  EX: 0.179  SU: 0.243   Prediction: NOISE2
+62017717  2024-07-18T10:25:59.12 Ml2.2   Mean probabilities:   EQ: 0.67  EX: 0.227  SU: 0.158   Prediction: EQ
+61503168  2024-07-18T10:02:03.21 Md0.7   Mean probabilities:   EQ: 0.56  EX: 0.174  SU: 0.12   Prediction: EQ
+62017692  2024-07-18T08:10:00.54 Ml1.6   Mean probabilities:   EQ: 0.162  EX: 0.552  SU: 0.592   Prediction: SU
+62017677  2024-07-18T03:24:56.00 Md1.9   Mean probabilities:   EQ: 0.717  EX: 0.179  SU: 0.128   Prediction: EQ
+62017652  2024-07-18T01:47:47.43 Ml1.2   Mean probabilities:   EQ: 0.166  EX: 0.558  SU: 0.657   Prediction: SU
+62017647  2024-07-18T01:31:11.23 Ml0.1   Mean probabilities:   EQ: 0.483  EX: 0.12  SU: 0.136   Prediction: NOISE2
+62017512  2024-07-17T21:43:11.73 Md1.6   Mean probabilities:   EQ: 0.117  EX: 0.84  SU: 0.381   Prediction: EX
+62017487  2024-07-17T20:49:17.37 Ml2.6   Mean probabilities:   EQ: 0.244  EX: 0.542  SU: 0.428   Prediction: EX
+62017462  2024-07-17T19:07:41.59 Ml1.7   Mean probabilities:   EQ: 0.191  EX: 0.804  SU: 0.271   Prediction: EX
+62017452  2024-07-17T18:33:33.41 Ml1.9   Mean probabilities:   EQ: 0.076  EX: 0.897  SU: 0.294   Prediction: EX
+62017442  2024-07-17T18:16:20.02 Ml1.4   Mean probabilities:   EQ: 0.282  EX: 0.393  SU: 0.192   Prediction: NOISE2
+62017407  2024-07-17T17:16:28.94 Ml1.8   Mean probabilities:   EQ: 0.374  EX: 0.534  SU: 0.3   Prediction: EX
+62017402  2024-07-17T16:59:18.55 Ml1.2   Mean probabilities:   EQ: 0.23  EX: 0.537  SU: 0.389   Prediction: EX
+62017362  2024-07-17T15:24:26.09 Ml1.4   Mean probabilities:   EQ: 0.13  EX: 0.73  SU: 0.398   Prediction: EX
+62017332  2024-07-17T10:56:55.23 Mh-0.0   Mean probabilities:   EQ: 0.472  EX: 0.294  SU: 0.54   Prediction: SU
+62017327  2024-07-17T10:53:23.74 Ml0.2   Mean probabilities:   EQ: 0.739  EX: 0.163  SU: 0.32   Prediction: EQ
+62017297  2024-07-17T02:21:17.28 Ml-0.1   Mean probabilities:   EQ: 0.278  EX: 0.056  SU: 0.089   Prediction: NOISE2
+62017257  2024-07-17T00:49:37.54 Ml1.1   Mean probabilities:   EQ: 0.649  EX: 0.091  SU: 0.183   Prediction: EQ
+62017242  2024-07-16T23:16:45.57 Ml1.4   Mean probabilities:   EQ: 0.07  EX: 0.915  SU: 0.451   Prediction: EX
+62017192  2024-07-16T21:50:57.39 Ml2.1   Mean probabilities:   EQ: 0.198  EX: 0.793  SU: 0.314   Prediction: EX
+62017187  2024-07-16T21:43:16.60 Md-0.2   Mean probabilities:   EQ: 0.267  EX: 0.463  SU: 0.195   Prediction: NOISE2
+62017182  2024-07-16T21:40:18.43 Md1.4   Mean probabilities:   EQ: 0.627  EX: 0.274  SU: 0.128   Prediction: EQ
+62017137  2024-07-16T19:31:15.20 Ml1.0   Mean probabilities:   EQ: 0.366  EX: 0.604  SU: 0.28   Prediction: EX
+62017132  2024-07-16T18:51:26.12 Md1.7   Mean probabilities:   EQ: 0.689  EX: 0.232  SU: 0.16   Prediction: EQ
+62017127  2024-07-16T18:38:57.27 Md1.9   Mean probabilities:   EQ: 0.644  EX: 0.268  SU: 0.203   Prediction: EQ
+62017082  2024-07-16T17:00:40.07 Md2.4   Mean probabilities:   EQ: 0.52  EX: 0.389  SU: 0.239   Prediction: EQ
+62017032  2024-07-16T12:28:45.52 Ml0.1   Mean probabilities:   EQ: 0.496  EX: 0.212  SU: 0.165   Prediction: NOISE2
+62017022  2024-07-16T09:45:36.50 Md1.4   Mean probabilities:   EQ: 0.803  EX: 0.154  SU: 0.167   Prediction: EQ
+62017007  2024-07-16T06:18:10.29 Md2.1   Mean probabilities:   EQ: 0.689  EX: 0.197  SU: 0.238   Prediction: EQ
+62016957  2024-07-16T01:45:29.79 Ml2.2   Mean probabilities:   EQ: 0.447  EX: 0.395  SU: 0.288   Prediction: NOISE2
+62016922  2024-07-15T23:02:26.83 Ml0.9   Mean probabilities:   EQ: 0.608  EX: 0.238  SU: 0.18   Prediction: EQ
+62016882  2024-07-15T21:32:37.18 Ml2.2   Mean probabilities:   EQ: 0.377  EX: 0.471  SU: 0.319   Prediction: NOISE2
+62016792  2024-07-15T18:01:23.26 Md1.1   Mean probabilities:   EQ: 0.071  EX: 0.914  SU: 0.355   Prediction: EX
+62016767  2024-07-15T16:44:00.22 Mh-0.2   Mean probabilities:   EQ: 0.462  EX: 0.09  SU: 0.16   Prediction: NOISE2
+62016737  2024-07-15T14:34:41.59 Ml1.8   Mean probabilities:   EQ: 0.604  EX: 0.137  SU: 0.172   Prediction: EQ
+62016727  2024-07-15T13:21:26.42 Ml1.4   Mean probabilities:   EQ: 0.574  EX: 0.285  SU: 0.272   Prediction: EQ
+62016722  2024-07-15T13:07:47.02 Ml1.5   Mean probabilities:   EQ: 0.494  EX: 0.328  SU: 0.242   Prediction: NOISE2
+62016712  2024-07-15T11:03:37.36 Ml0.1   Mean probabilities:   EQ: 0.691  EX: 0.11  SU: 0.171   Prediction: EQ
+62016707  2024-07-15T09:15:14.55 Mh-5.0   Mean probabilities:   EQ: 0.127  EX: 0.61  SU: 0.641   Prediction: SU
+62016697  2024-07-15T07:16:46.95 Md2.1   Mean probabilities:   EQ: 0.754  EX: 0.162  SU: 0.264   Prediction: EQ
+62016692  2024-07-15T07:03:43.54 Ml1.1   Mean probabilities:   EQ: 0.595  EX: 0.264  SU: 0.395   Prediction: EQ
+62016672  2024-07-15T03:19:51.05 Ml1.4   Mean probabilities:   EQ: 0.702  EX: 0.223  SU: 0.224   Prediction: EQ
+62016652  2024-07-15T02:14:22.02 Ml0.7   Mean probabilities:   EQ: 0.13  EX: 0.509  SU: 0.377   Prediction: EX
+62016647  2024-07-15T00:38:47.54 Md1.8   Mean probabilities:   EQ: 0.736  EX: 0.259  SU: 0.155   Prediction: EQ
+62016572  2024-07-14T19:42:42.59 Ml1.1   Mean probabilities:   EQ: 0.604  EX: 0.16  SU: 0.191   Prediction: EQ
+62016562  2024-07-14T19:13:32.11 Ml0.8   Mean probabilities:   EQ: 0.692  EX: 0.144  SU: 0.146   Prediction: EQ
+62016517  2024-07-14T13:58:02.08 Ml0.4   Mean probabilities:   EQ: 0.69  EX: 0.126  SU: 0.202   Prediction: EQ
+62016492  2024-07-14T12:12:34.71 Md1.8   Mean probabilities:   EQ: 0.786  EX: 0.175  SU: 0.176   Prediction: EQ
+62016477  2024-07-14T09:48:48.34 Ml0.7   Mean probabilities:   EQ: 0.726  EX: 0.11  SU: 0.166   Prediction: EQ
+62016467  2024-07-14T07:58:31.57 Ml0.4   Mean probabilities:   EQ: 0.605  EX: 0.169  SU: 0.209   Prediction: EQ
+61503158  2024-07-14T07:26:58.85 Ml0.1   Mean probabilities:   EQ: 0.736  EX: 0.16  SU: 0.225   Prediction: EQ
+62016462  2024-07-14T07:26:48.18 Ml0.1   Mean probabilities:   EQ: 0.754  EX: 0.192  SU: 0.221   Prediction: EQ
+62016457  2024-07-14T07:06:03.63 Ml2.7   Mean probabilities:   EQ: 0.588  EX: 0.274  SU: 0.308   Prediction: EQ
+62016452  2024-07-14T05:26:52.11 Ml1.3   Mean probabilities:   EQ: 0.205  EX: 0.476  SU: 0.696   Prediction: SU
+62016447  2024-07-14T04:42:19.69 Md1.7   Mean probabilities:   EQ: 0.614  EX: 0.262  SU: 0.285   Prediction: EQ
+62016442  2024-07-14T03:47:02.65 Ml1.1   Mean probabilities:   EQ: 0.109  EX: 0.561  SU: 0.668   Prediction: SU
+62016427  2024-07-14T02:23:17.75 Ml0.5   Mean probabilities:   EQ: 0.764  EX: 0.114  SU: 0.158   Prediction: EQ
+62016422  2024-07-14T01:53:01.39 Md0.4   Mean probabilities:   EQ: 0.639  EX: 0.104  SU: 0.139   Prediction: EQ
+62016372  2024-07-13T23:52:51.71 Md1.9   Mean probabilities:   EQ: 0.632  EX: 0.326  SU: 0.149   Prediction: EQ
+62016367  2024-07-13T22:48:15.80 Ml0.6   Mean probabilities:   EQ: 0.778  EX: 0.184  SU: 0.165   Prediction: EQ
+62016362  2024-07-13T22:37:39.36 Md1.8   Mean probabilities:   EQ: 0.572  EX: 0.307  SU: 0.282   Prediction: EQ
+62016247  2024-07-13T11:54:00.38 Ml0.3   Mean probabilities:   EQ: 0.759  EX: 0.161  SU: 0.236   Prediction: EQ
+62016227  2024-07-13T10:01:57.36 Md2.6   Mean probabilities:   EQ: 0.395  EX: 0.289  SU: 0.192   Prediction: NOISE2
+62016182  2024-07-13T01:13:52.00 Ml1.6   Mean probabilities:   EQ: 0.102  EX: 0.663  SU: 0.602   Prediction: EX
+62016127  2024-07-12T19:54:41.37 Md0.4   Mean probabilities:   EQ: 0.2  EX: 0.103  SU: 0.039   Prediction: NOISE2
+62016122  2024-07-12T19:45:14.77 Ml1.7   Mean probabilities:   EQ: 0.056  EX: 0.895  SU: 0.316   Prediction: EX
+62015957  2024-07-12T11:32:29.28 Md0.3   Mean probabilities:   EQ: 0.558  EX: 0.135  SU: 0.129   Prediction: EQ
+62015922  2024-07-12T06:29:36.16 Ml0.1   Mean probabilities:   EQ: 0.766  EX: 0.093  SU: 0.17   Prediction: EQ
+62015902  2024-07-12T05:38:18.85 Ml0.1   Mean probabilities:   EQ: 0.716  EX: 0.155  SU: 0.171   Prediction: EQ
+62015847  2024-07-11T23:32:48.96 Ml2.2   Mean probabilities:   EQ: 0.393  EX: 0.548  SU: 0.207   Prediction: EX
+62015842  2024-07-11T23:29:58.25 Ml0.8   Mean probabilities:   EQ: 0.478  EX: 0.123  SU: 0.175   Prediction: NOISE2
+62015792  2024-07-11T20:36:10.30 Ml1.7   Mean probabilities:   EQ: 0.122  EX: 0.767  SU: 0.287   Prediction: EX
+62015787  2024-07-11T19:29:38.84 Ml0.6   Mean probabilities:   EQ: 0.692  EX: 0.169  SU: 0.152   Prediction: EQ
+62015757  2024-07-11T17:42:17.24 Ml2.2   Mean probabilities:   EQ: 0.384  EX: 0.508  SU: 0.219   Prediction: EX
+62015712  2024-07-11T15:51:50.64 Md2.2   Mean probabilities:   EQ: 0.673  EX: 0.212  SU: 0.251   Prediction: EQ
+62015707  2024-07-11T15:40:40.37 Ml1.2   Mean probabilities:   EQ: 0.757  EX: 0.132  SU: 0.157   Prediction: EQ
+62015657  2024-07-11T11:34:33.41 Ml1.7   Mean probabilities:   EQ: 0.563  EX: 0.305  SU: 0.2   Prediction: EQ
+62015637  2024-07-11T06:08:06.11 Ml1.7   Mean probabilities:   EQ: 0.776  EX: 0.201  SU: 0.236   Prediction: EQ
+62015627  2024-07-11T04:49:53.93 Md0.6   Mean probabilities:   EQ: 0.787  EX: 0.145  SU: 0.227   Prediction: EQ
+62015622  2024-07-11T04:45:16.20 Ml0.2   Mean probabilities:   EQ: 0.622  EX: 0.153  SU: 0.12   Prediction: EQ
+62015567  2024-07-10T23:10:38.59 Ml1.4   Mean probabilities:   EQ: 0.075  EX: 0.832  SU: 0.535   Prediction: EX
+62015552  2024-07-10T21:47:20.42 Ml2.0   Mean probabilities:   EQ: 0.301  EX: 0.632  SU: 0.302   Prediction: EX
+62023426  2024-07-10T19:07:47.00 Ml1.1   Mean probabilities:   EQ: 0.065  EX: 0.945  SU: 0.398   Prediction: EX
+62023401  2024-07-10T18:18:00.24 Ml1.2   Mean probabilities:   EQ: 0.272  EX: 0.675  SU: 0.245   Prediction: EX
+62023386  2024-07-10T16:57:31.17 Md1.7   Mean probabilities:   EQ: 0.561  EX: 0.33  SU: 0.195   Prediction: EQ
+62023306  2024-07-10T11:11:37.41 Ml0.0   Mean probabilities:   EQ: 0.662  EX: 0.111  SU: 0.177   Prediction: EQ
+62023301  2024-07-10T11:09:06.35 Ml0.1   Mean probabilities:   EQ: 0.569  EX: 0.09  SU: 0.143   Prediction: EQ
+62023296  2024-07-10T11:02:10.09 Ml0.1   Mean probabilities:   EQ: 0.659  EX: 0.085  SU: 0.14   Prediction: EQ
+62023291  2024-07-10T10:35:31.35 Ml0.5   Mean probabilities:   EQ: 0.657  EX: 0.114  SU: 0.132   Prediction: EQ
+62023281  2024-07-10T09:08:04.44 Ml0.0   Mean probabilities:   EQ: 0.636  EX: 0.124  SU: 0.157   Prediction: EQ
+62023276  2024-07-10T08:16:24.09 Md-0.4   Mean probabilities:   EQ: 0.415  EX: 0.137  SU: 0.135   Prediction: NOISE2
+62023271  2024-07-10T08:08:59.41 Ml0.9   Mean probabilities:   EQ: 0.713  EX: 0.1  SU: 0.135   Prediction: EQ
+62023266  2024-07-10T07:55:17.74 Ml0.2   Mean probabilities:   EQ: 0.799  EX: 0.129  SU: 0.224   Prediction: EQ
+62023261  2024-07-10T07:53:51.89 Md-0.2   Mean probabilities:   EQ: 0.552  EX: 0.13  SU: 0.114   Prediction: EQ
+62023251  2024-07-10T06:41:25.54 Ml0.0   Mean probabilities:   EQ: 0.551  EX: 0.114  SU: 0.145   Prediction: EQ
+62023226  2024-07-10T03:57:10.17 Ml2.6   Mean probabilities:   EQ: 0.484  EX: 0.32  SU: 0.332   Prediction: NOISE2
+62023221  2024-07-10T03:48:28.67 Md1.8   Mean probabilities:   EQ: 0.692  EX: 0.262  SU: 0.245   Prediction: EQ
+62023216  2024-07-10T03:42:15.59 Ml-0.0   Mean probabilities:   EQ: 0.577  EX: 0.093  SU: 0.141   Prediction: EQ
+62023211  2024-07-10T02:45:47.87 Md1.9   Mean probabilities:   EQ: 0.72  EX: 0.169  SU: 0.212   Prediction: EQ
+62023206  2024-07-10T02:21:14.98 Md2.2   Mean probabilities:   EQ: 0.661  EX: 0.207  SU: 0.26   Prediction: EQ
+62023181  2024-07-10T00:19:53.64 Ml0.6   Mean probabilities:   EQ: 0.703  EX: 0.086  SU: 0.122   Prediction: EQ
+62023176  2024-07-09T23:56:58.30 Ml2.1   Mean probabilities:   EQ: 0.155  EX: 0.862  SU: 0.231   Prediction: EX
+62023161  2024-07-09T23:25:34.68 Ml0.9   Mean probabilities:   EQ: 0.12  EX: 0.758  SU: 0.586   Prediction: EX
+62023106  2024-07-09T20:00:25.25 Ml1.5   Mean probabilities:   EQ: 0.192  EX: 0.617  SU: 0.293   Prediction: EX
+62023066  2024-07-09T18:28:16.26 Md0.9   Mean probabilities:   EQ: 0.29  EX: 0.702  SU: 0.192   Prediction: EX
+62023031  2024-07-09T16:54:17.55 Ml1.7   Mean probabilities:   EQ: 0.135  EX: 0.837  SU: 0.284   Prediction: EX
+62023011  2024-07-09T16:25:11.62 Ml1.1   Mean probabilities:   EQ: 0.564  EX: 0.222  SU: 0.218   Prediction: EQ
+62022981  2024-07-09T14:59:54.52 Md2.3   Mean probabilities:   EQ: 0.476  EX: 0.374  SU: 0.318   Prediction: NOISE2
+62022946  2024-07-09T12:42:17.07 Md2.0   Mean probabilities:   EQ: 0.684  EX: 0.176  SU: 0.325   Prediction: EQ
+62022911  2024-07-09T11:13:29.65 Ml0.5   Mean probabilities:   EQ: 0.77  EX: 0.121  SU: 0.205   Prediction: EQ
+62022906  2024-07-09T11:01:56.19 Md1.8   Mean probabilities:   EQ: 0.829  EX: 0.158  SU: 0.132   Prediction: EQ
+62022901  2024-07-09T10:37:13.04 Md1.8   Mean probabilities:   EQ: 0.706  EX: 0.22  SU: 0.15   Prediction: EQ
+62022896  2024-07-09T09:09:36.86 Ml0.9   Mean probabilities:   EQ: 0.601  EX: 0.156  SU: 0.167   Prediction: EQ
+62022871  2024-07-09T04:59:13.29 Ml-0.0   Mean probabilities:   EQ: 0.562  EX: 0.116  SU: 0.149   Prediction: EQ
+62022841  2024-07-09T02:11:11.21 Ml0.4   Mean probabilities:   EQ: 0.755  EX: 0.117  SU: 0.151   Prediction: EQ
+62022836  2024-07-09T01:24:49.86 Ml1.6   Mean probabilities:   EQ: 0.598  EX: 0.27  SU: 0.203   Prediction: EQ
+62022831  2024-07-09T00:57:31.65 Ml1.7   Mean probabilities:   EQ: 0.105  EX: 0.671  SU: 0.66   Prediction: EX
+62022806  2024-07-09T00:23:31.70 Ml0.7   Mean probabilities:   EQ: 0.698  EX: 0.12  SU: 0.119   Prediction: EQ
+62022796  2024-07-09T00:15:48.00 Md0.9   Mean probabilities:   EQ: 0.17  EX: 0.746  SU: 0.288   Prediction: EX
+62022791  2024-07-09T00:02:33.07 Ml1.5   Mean probabilities:   EQ: 0.145  EX: 0.726  SU: 0.46   Prediction: EX
+62022771  2024-07-08T22:59:30.69 Ml1.8   Mean probabilities:   EQ: 0.391  EX: 0.538  SU: 0.25   Prediction: EX
+62022686  2024-07-08T20:30:51.64 Ml1.6   Mean probabilities:   EQ: 0.127  EX: 0.851  SU: 0.257   Prediction: EX
+62022646  2024-07-08T19:49:41.34 Ml2.3   Mean probabilities:   EQ: 0.416  EX: 0.538  SU: 0.167   Prediction: EX
+62022641  2024-07-08T19:21:00.50 Ml1.2   Mean probabilities:   EQ: 0.695  EX: 0.199  SU: 0.172   Prediction: EQ
+62022546  2024-07-08T16:21:15.83 Ml1.4   Mean probabilities:   EQ: 0.127  EX: 0.472  SU: 0.231   Prediction: NOISE2
+62022526  2024-07-08T15:37:02.88 Md2.1   Mean probabilities:   EQ: 0.657  EX: 0.242  SU: 0.308   Prediction: EQ
+62022496  2024-07-08T14:10:13.86 Md2.2   Mean probabilities:   EQ: 0.691  EX: 0.222  SU: 0.203   Prediction: EQ
+62022481  2024-07-08T11:19:50.09 Ml0.0   Mean probabilities:   EQ: 0.631  EX: 0.097  SU: 0.176   Prediction: EQ
+62022471  2024-07-08T06:03:00.52 Md-0.1   Mean probabilities:   EQ: 0.485  EX: 0.066  SU: 0.078   Prediction: NOISE2
+62022361  2024-07-07T15:49:57.52 Ml0.2   Mean probabilities:   EQ: 0.673  EX: 0.125  SU: 0.186   Prediction: EQ
+62022326  2024-07-07T10:06:00.65 Md2.0   Mean probabilities:   EQ: 0.65  EX: 0.222  SU: 0.231   Prediction: EQ
+62022291  2024-07-07T05:52:43.16 Ml1.0   Mean probabilities:   EQ: 0.764  EX: 0.151  SU: 0.218   Prediction: EQ
+62022271  2024-07-07T03:39:18.63 Md1.9   Mean probabilities:   EQ: 0.588  EX: 0.252  SU: 0.282   Prediction: EQ
+62022266  2024-07-07T03:27:58.18 Ml1.3   Mean probabilities:   EQ: 0.624  EX: 0.21  SU: 0.26   Prediction: EQ
+62022261  2024-07-07T02:50:09.88 Ml0.6   Mean probabilities:   EQ: 0.732  EX: 0.139  SU: 0.176   Prediction: EQ
+62022246  2024-07-07T02:27:41.79 Ml1.3   Mean probabilities:   EQ: 0.725  EX: 0.161  SU: 0.126   Prediction: EQ
+62022201  2024-07-06T21:18:14.95 Ml1.9   Mean probabilities:   EQ: 0.367  EX: 0.508  SU: 0.307   Prediction: EX
+62022196  2024-07-06T20:49:39.50 Ml0.7   Mean probabilities:   EQ: 0.563  EX: 0.286  SU: 0.263   Prediction: EQ
+62022091  2024-07-06T15:15:21.18 Ml1.5   Mean probabilities:   EQ: 0.136  EX: 0.594  SU: 0.669   Prediction: SU
+62022051  2024-07-06T09:13:41.25 Md1.8   Mean probabilities:   EQ: 0.704  EX: 0.18  SU: 0.206   Prediction: EQ
+62022036  2024-07-06T08:05:12.07 Ml1.1   Mean probabilities:   EQ: 0.46  EX: 0.302  SU: 0.496   Prediction: NOISE2
+62022001  2024-07-06T05:58:09.91 Ml0.1   Mean probabilities:   EQ: 0.697  EX: 0.112  SU: 0.205   Prediction: EQ
+62021836  2024-07-05T19:12:08.13 Ml1.1   Mean probabilities:   EQ: 0.5  EX: 0.194  SU: 0.185   Prediction: EQ
+62013837  2024-07-05T15:51:56.21 Ml3.2   Mean probabilities:   EQ: 0.22  EX: 0.573  SU: 0.217   Prediction: EX
+62013817  2024-07-05T14:53:01.90 Ml0.2   Mean probabilities:   EQ: 0.621  EX: 0.127  SU: 0.148   Prediction: EQ
+62013767  2024-07-05T12:44:01.96 Ml0.3   Mean probabilities:   EQ: 0.618  EX: 0.085  SU: 0.177   Prediction: EQ
+62013747  2024-07-05T11:17:50.93 Ml1.2   Mean probabilities:   EQ: 0.833  EX: 0.137  SU: 0.172   Prediction: EQ
+61503148  2024-07-05T10:59:04.74 Ml0.5   Mean probabilities:   EQ: 0.763  EX: 0.153  SU: 0.266   Prediction: EQ
+61503143  2024-07-05T10:53:47.73 Md-0.2   Mean probabilities:   EQ: 0.757  EX: 0.131  SU: 0.404   Prediction: EQ
+62013722  2024-07-05T10:47:20.46 Ml0.3   Mean probabilities:   EQ: 0.272  EX: 0.439  SU: 0.412   Prediction: NOISE2
+61503138  2024-07-05T09:07:51.79 Md-0.5   Mean probabilities:   EQ: 0.679  EX: 0.18  SU: 0.122   Prediction: EQ
+62013687  2024-07-05T07:35:18.93 Md1.9   Mean probabilities:   EQ: 0.712  EX: 0.194  SU: 0.211   Prediction: EQ
+62013477  2024-07-05T03:02:26.78 Ml1.3   Mean probabilities:   EQ: 0.129  EX: 0.647  SU: 0.606   Prediction: EX
+62013322  2024-07-04T07:46:59.87 Md1.1   Mean probabilities:   EQ: 0.717  EX: 0.162  SU: 0.168   Prediction: EQ
